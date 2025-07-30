@@ -42,5 +42,5 @@ Subject: Fundamentals of Programming
 3. Run the main script:
 
    ```bash
-   python interfaz_grafica.py
+   python DNA_statistics.py
 
